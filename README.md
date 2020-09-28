@@ -8,4 +8,4 @@ When the user clicks on the temperature value, that will convert it from Celsius
 
 The API provider is http://www.OpenWeatherMap.org
 
-
+Happy Coding!!!
