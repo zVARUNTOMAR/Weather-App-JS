@@ -107,5 +107,11 @@ body{
     font-size: 0.8em;
 }
 
-
+.header p {
+    text-align: center;
+    padding: 15px;
+    margin: 0 auto;
+    font-size: 1.2em;
+    color: #FFFFFF;
+}
 
